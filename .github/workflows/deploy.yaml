@@ -9,7 +9,7 @@ name: Deploy microservice
 
 on:
   #
-  # Deploys the microservice on push to the main branch of this code repository..
+  # Deploys the microservice on push to the main branch of this code repository...
   #
   push:
     branches:
